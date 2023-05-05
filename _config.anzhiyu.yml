@@ -238,7 +238,7 @@ reward:
 # Easily browse and edit blog source code online.
 post_edit:
   enable: true
-  # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
+  url: https://github.com/HongZhengTech/HongZhengTech.github.io/blob/master/source/_posts/<%- page.source %>
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
   url:
 
